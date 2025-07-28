@@ -37,7 +37,7 @@
 ### 📂 Projetos em Destaque
 
 - ✅ **CustomerConnect** – Sistema completo de cadastro de clientes com Spring Boot, MySQL e Docker  
-  🔗 [Acesse o projeto](https://github.com/brunoborsatto/customerconnect)
+  🔗 [Acesse o projeto]([https://github.com/brunoborsatto/customerconnect](https://github.com/brunoborsattodev/java_course/tree/project/customer-connect/customerconnect))
 
 ---
 
